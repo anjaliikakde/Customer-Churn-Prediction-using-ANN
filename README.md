@@ -80,4 +80,4 @@ To run this project Write the commonds in terminal-
  
 ## Screenshots of Streamlit web app
 
-![Churn_prediction](https://github.com/user-attachments/assets/feea5543-9004-4896-b723-8b9a85ae0cbd)
+![NewCapture](https://github.com/user-attachments/assets/1a1b4a68-766a-4ba6-8121-0e0390b9d976)
